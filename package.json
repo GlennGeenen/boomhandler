@@ -1,6 +1,6 @@
 {
   "name": "boomhandler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express.js errorhandler that handles boom errors and mongoose errors.",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,9 @@
     "type": "git",
     "url": "https://github.com/GlennGeenen/boomhandler.git"
   },
-  "license" : "MIT",
-  "engines" : {
-    "node" : ">=4.0.0"
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
   },
   "devDependencies": {
     "eslint": "^1.10.3",
